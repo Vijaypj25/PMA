@@ -1,0 +1,101 @@
+User_ID,Account_Age_Days,Number_of_Friends,Privacy_Settings_Level,Unauthorized_Access_Attempts,Phishing_Attempt_Reports,Compromised_Account_Incidents,Uses_Strong_Password,Multi_Factor_Authentication_Enabled,Frequent_Password_Changes,Operating_System_Updated,Antivirus_Installed,Device_Used,Login_Locations,Unusual_Login_Alerts,Clicks_on_Suspicious_Links,Engagement_with_Unknown_Users,Personal_Information_Shared_Publicly,Data_Breach_Impact,Financial_Loss_Incurred,Reputation_Damage_Level
+U001,501,4549,Public,2,5,0,Yes,No,Yes,Yes,Yes,Desktop,Office,Yes,No,Yes,Yes,Medium,555,Low
+U002,2317,3544,Private,7,0,2,No,Yes,Yes,Yes,No,Mobile,Multiple Locations,No,Yes,Yes,No,Low,8060,Medium
+U003,1605,2065,Public,9,3,1,Yes,No,Yes,Yes,Yes,Mobile,Home,No,No,Yes,No,High,2294,High
+U004,2531,2582,Private,3,4,0,No,Yes,Yes,No,Yes,Mobile,Multiple Locations,No,No,Yes,Yes,Medium,4164,Low
+U005,3487,2643,Public,4,1,1,No,Yes,No,Yes,No,Desktop,Multiple Locations,No,No,No,Yes,High,4380,High
+U006,312,1256,Public,0,2,2,No,Yes,Yes,Yes,Yes,Mobile,Home,Yes,Yes,No,Yes,Low,1241,High
+U007,2239,3355,Private,3,0,0,No,No,Yes,Yes,No,Desktop,Office,Yes,Yes,Yes,Yes,Medium,5919,Medium
+U008,296,3168,Private,0,1,0,Yes,No,Yes,No,Yes,Desktop,Office,Yes,No,No,No,Medium,2375,Medium
+U009,2870,4071,Custom,10,0,0,No,Yes,No,No,No,Desktop,Multiple Locations,No,No,No,Yes,Medium,8484,Medium
+U010,1610,4302,Custom,7,3,1,Yes,No,Yes,Yes,No,Desktop,Office,Yes,No,Yes,No,High,4,Medium
+U011,1320,1856,Custom,4,3,2,Yes,No,Yes,No,Yes,Desktop,Multiple Locations,Yes,Yes,No,No,Medium,9678,High
+U012,1639,4699,Public,6,5,2,No,Yes,No,No,Yes,Desktop,Home,No,Yes,Yes,No,Medium,8334,Low
+U013,3477,717,Custom,10,2,3,No,Yes,No,Yes,No,Desktop,Home,No,Yes,No,Yes,Low,8141,High
+U014,2710,1376,Private,2,5,3,No,Yes,Yes,Yes,Yes,Mobile,Office,No,Yes,No,No,High,6335,High
+U015,2848,1574,Custom,3,0,0,Yes,No,Yes,No,Yes,Desktop,Office,No,No,No,No,Low,6933,High
+U016,3356,2241,Public,2,1,1,Yes,Yes,Yes,No,No,Desktop,Office,No,Yes,Yes,No,High,5402,High
+U017,895,4371,Custom,9,2,1,No,Yes,Yes,No,Yes,Mobile,Office,Yes,Yes,No,No,High,7229,Medium
+U018,1820,4456,Public,1,3,3,Yes,No,Yes,Yes,Yes,Mobile,Office,No,No,Yes,No,High,9507,High
+U019,152,799,Custom,7,1,0,Yes,No,No,Yes,No,Mobile,Office,No,Yes,Yes,No,Low,5451,Medium
+U020,616,1893,Public,4,4,3,Yes,No,Yes,Yes,No,Mobile,Multiple Locations,No,Yes,Yes,Yes,Medium,7701,Low
+U021,3054,3838,Private,10,2,0,Yes,No,No,No,No,Desktop,Office,No,Yes,No,No,High,6588,Low
+U022,2230,456,Private,7,2,2,Yes,No,No,No,Yes,Mobile,Multiple Locations,No,Yes,Yes,Yes,Low,6605,Medium
+U023,2861,2698,Custom,9,2,2,No,No,Yes,No,Yes,Desktop,Office,No,Yes,Yes,No,Medium,7783,High
+U024,1303,4161,Custom,0,5,2,Yes,No,No,Yes,No,Mobile,Home,Yes,No,Yes,Yes,High,12,Low
+U025,3146,1482,Public,0,2,1,Yes,Yes,No,Yes,No,Mobile,Home,No,No,Yes,No,Low,6932,High
+U026,1900,3142,Private,4,5,1,Yes,Yes,No,No,No,Mobile,Multiple Locations,No,No,No,No,Medium,9393,Low
+U027,255,142,Custom,2,3,1,Yes,Yes,No,No,Yes,Desktop,Multiple Locations,Yes,No,No,Yes,High,297,Low
+U028,415,3910,Private,5,0,2,No,Yes,No,No,Yes,Mobile,Office,No,Yes,No,No,Medium,2201,Low
+U029,2050,2208,Custom,10,3,0,No,No,No,Yes,No,Mobile,Multiple Locations,Yes,No,Yes,No,Medium,8526,High
+U030,3614,4581,Custom,5,4,3,No,Yes,Yes,No,Yes,Mobile,Multiple Locations,Yes,Yes,Yes,Yes,Low,5668,High
+U031,1032,1929,Private,5,1,0,Yes,Yes,No,Yes,No,Desktop,Multiple Locations,Yes,No,Yes,Yes,High,3666,Low
+U032,1935,4862,Private,5,1,0,Yes,No,No,Yes,No,Desktop,Home,Yes,Yes,No,No,High,2577,High
+U033,2557,4468,Public,8,4,1,No,No,No,No,Yes,Mobile,Office,No,Yes,No,No,Medium,3717,High
+U034,1267,4915,Custom,10,2,0,Yes,No,No,No,Yes,Desktop,Multiple Locations,Yes,No,No,No,Low,9214,Medium
+U035,189,4115,Private,0,4,2,No,No,No,Yes,No,Mobile,Multiple Locations,Yes,Yes,No,Yes,Low,743,Medium
+U036,3352,4694,Public,9,2,1,No,No,Yes,Yes,Yes,Mobile,Office,No,No,Yes,No,Low,837,High
+U037,3277,1084,Custom,10,3,3,Yes,Yes,Yes,No,Yes,Desktop,Home,Yes,Yes,No,No,High,451,Medium
+U038,2368,3595,Public,3,5,2,No,Yes,No,Yes,Yes,Mobile,Office,Yes,No,No,No,Low,6392,Medium
+U039,528,2473,Private,4,0,3,Yes,No,Yes,Yes,Yes,Mobile,Office,Yes,Yes,Yes,No,High,831,High
+U040,669,2678,Public,7,0,0,No,Yes,No,No,Yes,Mobile,Office,Yes,No,Yes,Yes,Low,8328,High
+U041,3549,2264,Public,10,2,1,Yes,Yes,Yes,Yes,No,Desktop,Office,No,Yes,Yes,Yes,Medium,1303,High
+U042,3190,3348,Custom,10,3,1,Yes,Yes,Yes,No,Yes,Mobile,Office,No,Yes,No,Yes,Medium,4352,Medium
+U043,2657,4449,Public,8,4,1,Yes,No,No,No,Yes,Mobile,Home,No,No,No,Yes,High,2692,High
+U044,1047,599,Custom,1,0,1,Yes,No,No,Yes,No,Desktop,Multiple Locations,No,No,Yes,No,Medium,544,Low
+U045,218,3901,Private,8,2,1,Yes,No,No,Yes,Yes,Mobile,Multiple Locations,Yes,No,Yes,Yes,Low,5631,High
+U046,1309,2429,Custom,1,3,2,Yes,No,Yes,No,No,Mobile,Multiple Locations,No,No,No,No,Medium,7309,High
+U047,3000,2830,Custom,0,0,0,Yes,No,Yes,Yes,Yes,Desktop,Home,Yes,No,No,No,Low,1614,Low
+U048,2863,138,Private,10,4,1,No,No,Yes,No,No,Mobile,Office,No,Yes,Yes,Yes,Low,1442,Low
+U049,304,275,Public,9,5,3,No,No,No,No,Yes,Mobile,Office,Yes,No,No,No,Medium,9831,Low
+U050,2042,4462,Public,8,4,1,No,No,Yes,No,No,Desktop,Multiple Locations,No,Yes,Yes,Yes,Medium,6683,High
+U051,1802,1053,Custom,4,2,2,No,No,No,No,Yes,Mobile,Multiple Locations,No,Yes,No,Yes,High,9120,High
+U052,1012,4728,Private,10,4,3,No,Yes,No,Yes,Yes,Desktop,Home,No,No,Yes,No,Low,4156,Low
+U053,921,2392,Private,7,5,3,No,Yes,No,Yes,No,Desktop,Multiple Locations,Yes,No,Yes,No,Low,5845,Low
+U054,1731,2012,Custom,2,1,0,Yes,Yes,No,Yes,Yes,Mobile,Office,Yes,No,Yes,Yes,Low,9911,High
+U055,2225,4309,Custom,5,3,1,Yes,No,No,Yes,Yes,Mobile,Home,No,Yes,Yes,Yes,Low,8838,High
+U056,3137,1112,Public,5,3,1,Yes,No,Yes,No,Yes,Desktop,Office,Yes,No,Yes,Yes,Medium,1569,High
+U057,3595,2560,Custom,0,3,2,Yes,Yes,Yes,No,Yes,Mobile,Home,Yes,Yes,Yes,Yes,High,9611,Low
+U058,2591,829,Private,9,5,3,Yes,No,No,Yes,No,Mobile,Office,Yes,Yes,Yes,Yes,High,7186,Medium
+U059,3371,1173,Private,0,4,1,No,Yes,Yes,Yes,No,Mobile,Multiple Locations,Yes,Yes,Yes,Yes,High,7306,High
+U060,1160,4608,Private,5,2,2,Yes,No,No,Yes,Yes,Mobile,Office,No,No,No,No,Low,4300,High
+U061,3608,3033,Private,5,3,0,No,Yes,Yes,Yes,No,Mobile,Home,Yes,No,No,Yes,High,559,Medium
+U062,1493,2806,Private,2,1,2,No,No,Yes,No,Yes,Mobile,Multiple Locations,No,No,Yes,Yes,Low,7821,Low
+U063,2009,3505,Private,5,1,3,Yes,Yes,No,Yes,Yes,Mobile,Office,No,No,No,No,High,846,Low
+U064,1691,1958,Custom,0,5,1,No,Yes,Yes,No,No,Mobile,Home,No,Yes,Yes,No,Low,8472,High
+U065,570,277,Private,0,5,1,Yes,Yes,No,Yes,No,Mobile,Multiple Locations,Yes,Yes,Yes,Yes,High,8490,High
+U066,2885,4613,Public,10,1,0,Yes,Yes,Yes,Yes,No,Desktop,Office,Yes,Yes,No,No,High,7158,Low
+U067,1422,3923,Custom,9,2,3,No,No,No,No,Yes,Mobile,Office,Yes,No,Yes,No,High,5281,Low
+U068,2241,4968,Private,0,4,3,No,Yes,Yes,No,No,Mobile,Multiple Locations,No,No,No,Yes,Low,7482,Medium
+U069,484,1402,Public,4,5,1,Yes,No,No,Yes,Yes,Desktop,Office,No,No,Yes,No,Medium,20,Medium
+U070,3360,150,Custom,1,3,1,No,No,Yes,Yes,Yes,Mobile,Office,No,No,No,No,High,4963,Low
+U071,3192,4913,Custom,8,4,1,Yes,Yes,No,Yes,Yes,Desktop,Multiple Locations,Yes,Yes,No,Yes,Medium,1447,Medium
+U072,1076,1714,Private,2,2,3,Yes,No,Yes,Yes,Yes,Desktop,Multiple Locations,Yes,No,No,Yes,Medium,2100,High
+U073,355,2617,Public,1,4,0,Yes,No,No,No,No,Desktop,Multiple Locations,No,No,Yes,Yes,Medium,1948,High
+U074,2980,1538,Custom,7,5,2,Yes,Yes,Yes,Yes,Yes,Desktop,Office,Yes,Yes,No,Yes,Low,4246,Medium
+U075,864,4768,Public,2,5,1,No,No,Yes,No,Yes,Mobile,Multiple Locations,Yes,No,No,No,Low,4704,Low
+U076,2641,4648,Private,8,5,2,No,Yes,Yes,Yes,No,Desktop,Home,Yes,No,Yes,Yes,High,2661,High
+U077,1766,2157,Private,1,1,0,No,Yes,Yes,Yes,Yes,Mobile,Multiple Locations,Yes,Yes,No,Yes,Medium,756,Low
+U078,3198,4418,Private,2,0,3,Yes,Yes,No,Yes,Yes,Desktop,Multiple Locations,Yes,No,Yes,Yes,Low,8063,Medium
+U079,1540,572,Public,4,4,0,No,No,No,No,Yes,Mobile,Multiple Locations,Yes,No,No,Yes,Low,4622,High
+U080,616,3462,Public,5,3,2,Yes,Yes,Yes,No,Yes,Mobile,Home,No,Yes,No,Yes,Low,6344,High
+U081,861,3207,Public,2,4,2,Yes,Yes,Yes,Yes,Yes,Mobile,Office,No,No,Yes,Yes,High,5806,Low
+U082,574,572,Private,7,1,2,No,Yes,No,No,Yes,Desktop,Office,No,Yes,Yes,Yes,Medium,9577,High
+U083,2191,4442,Public,6,1,0,No,No,Yes,Yes,Yes,Desktop,Home,Yes,Yes,Yes,Yes,Low,3113,High
+U084,2030,2530,Private,6,2,0,No,No,No,Yes,Yes,Desktop,Home,No,No,No,No,Low,4650,High
+U085,1605,493,Private,3,1,2,Yes,Yes,Yes,No,No,Desktop,Home,No,No,No,Yes,High,7024,Medium
+U086,353,4030,Public,3,5,0,Yes,Yes,Yes,No,No,Mobile,Multiple Locations,Yes,Yes,No,No,Low,1203,Medium
+U087,2409,1346,Private,9,3,3,No,Yes,Yes,Yes,Yes,Mobile,Office,Yes,Yes,No,No,Medium,2530,High
+U088,1536,175,Private,6,0,3,Yes,No,No,Yes,No,Mobile,Office,No,No,Yes,No,Medium,3126,Low
+U089,920,3735,Custom,2,4,0,Yes,No,Yes,No,No,Desktop,Office,No,No,Yes,Yes,Medium,8663,High
+U090,1197,4262,Private,5,4,0,No,Yes,No,Yes,Yes,Mobile,Multiple Locations,No,Yes,Yes,Yes,Low,8551,Low
+U091,1036,1786,Public,1,5,2,No,No,No,Yes,Yes,Mobile,Home,No,Yes,Yes,No,Medium,2016,High
+U092,2578,4054,Private,10,4,3,Yes,Yes,No,No,No,Desktop,Office,Yes,Yes,No,Yes,Low,5189,High
+U093,2824,2187,Public,0,4,3,No,No,Yes,Yes,No,Desktop,Home,No,No,Yes,No,Medium,4011,Low
+U094,1971,3248,Public,5,5,3,Yes,No,No,Yes,Yes,Mobile,Home,No,Yes,No,Yes,Medium,591,Medium
+U095,1382,4828,Custom,2,5,0,No,Yes,Yes,No,No,Mobile,Home,No,Yes,Yes,Yes,High,1067,High
+U096,3398,3171,Private,2,5,3,No,Yes,Yes,Yes,No,Mobile,Office,Yes,Yes,Yes,Yes,Medium,471,Low
+U097,2520,2377,Private,3,0,3,No,No,No,No,Yes,Desktop,Multiple Locations,Yes,No,Yes,Yes,High,5755,Low
+U098,359,2148,Public,0,5,2,No,No,Yes,No,No,Mobile,Multiple Locations,Yes,Yes,No,Yes,Low,1285,Medium
+U099,1705,1311,Custom,2,4,1,Yes,No,Yes,Yes,Yes,Mobile,Multiple Locations,Yes,No,No,No,High,4679,Medium
+U100,3413,2477,Public,10,1,3,No,No,No,No,Yes,Desktop,Multiple Locations,No,Yes,Yes,No,Low,4247,Medium
